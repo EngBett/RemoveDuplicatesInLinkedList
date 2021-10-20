@@ -1,0 +1,16 @@
+C:\Users\rbett\Documents\Projects\C#\TechnicalInterviewPractice\RemoveDublicatesInLinkedList\RemoveDublicatesInLinkedList\bin\Debug\net5.0\RemoveDublicatesInLinkedList.exe
+C:\Users\rbett\Documents\Projects\C#\TechnicalInterviewPractice\RemoveDublicatesInLinkedList\RemoveDublicatesInLinkedList\bin\Debug\net5.0\RemoveDublicatesInLinkedList.deps.json
+C:\Users\rbett\Documents\Projects\C#\TechnicalInterviewPractice\RemoveDublicatesInLinkedList\RemoveDublicatesInLinkedList\bin\Debug\net5.0\RemoveDublicatesInLinkedList.runtimeconfig.json
+C:\Users\rbett\Documents\Projects\C#\TechnicalInterviewPractice\RemoveDublicatesInLinkedList\RemoveDublicatesInLinkedList\bin\Debug\net5.0\RemoveDublicatesInLinkedList.runtimeconfig.dev.json
+C:\Users\rbett\Documents\Projects\C#\TechnicalInterviewPractice\RemoveDublicatesInLinkedList\RemoveDublicatesInLinkedList\bin\Debug\net5.0\RemoveDublicatesInLinkedList.dll
+C:\Users\rbett\Documents\Projects\C#\TechnicalInterviewPractice\RemoveDublicatesInLinkedList\RemoveDublicatesInLinkedList\bin\Debug\net5.0\ref\RemoveDublicatesInLinkedList.dll
+C:\Users\rbett\Documents\Projects\C#\TechnicalInterviewPractice\RemoveDublicatesInLinkedList\RemoveDublicatesInLinkedList\bin\Debug\net5.0\RemoveDublicatesInLinkedList.pdb
+C:\Users\rbett\Documents\Projects\C#\TechnicalInterviewPractice\RemoveDublicatesInLinkedList\RemoveDublicatesInLinkedList\obj\Debug\net5.0\RemoveDublicatesInLinkedList.csproj.AssemblyReference.cache
+C:\Users\rbett\Documents\Projects\C#\TechnicalInterviewPractice\RemoveDublicatesInLinkedList\RemoveDublicatesInLinkedList\obj\Debug\net5.0\RemoveDublicatesInLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rbett\Documents\Projects\C#\TechnicalInterviewPractice\RemoveDublicatesInLinkedList\RemoveDublicatesInLinkedList\obj\Debug\net5.0\RemoveDublicatesInLinkedList.AssemblyInfoInputs.cache
+C:\Users\rbett\Documents\Projects\C#\TechnicalInterviewPractice\RemoveDublicatesInLinkedList\RemoveDublicatesInLinkedList\obj\Debug\net5.0\RemoveDublicatesInLinkedList.AssemblyInfo.cs
+C:\Users\rbett\Documents\Projects\C#\TechnicalInterviewPractice\RemoveDublicatesInLinkedList\RemoveDublicatesInLinkedList\obj\Debug\net5.0\RemoveDublicatesInLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\rbett\Documents\Projects\C#\TechnicalInterviewPractice\RemoveDublicatesInLinkedList\RemoveDublicatesInLinkedList\obj\Debug\net5.0\RemoveDublicatesInLinkedList.dll
+C:\Users\rbett\Documents\Projects\C#\TechnicalInterviewPractice\RemoveDublicatesInLinkedList\RemoveDublicatesInLinkedList\obj\Debug\net5.0\ref\RemoveDublicatesInLinkedList.dll
+C:\Users\rbett\Documents\Projects\C#\TechnicalInterviewPractice\RemoveDublicatesInLinkedList\RemoveDublicatesInLinkedList\obj\Debug\net5.0\RemoveDublicatesInLinkedList.pdb
+C:\Users\rbett\Documents\Projects\C#\TechnicalInterviewPractice\RemoveDublicatesInLinkedList\RemoveDublicatesInLinkedList\obj\Debug\net5.0\RemoveDublicatesInLinkedList.genruntimeconfig.cache
